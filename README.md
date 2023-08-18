@@ -13,11 +13,15 @@
 
 
 
+## Weaknesses 
 
 ## 🎉 Result
 In person, the effect is convincing enough to give the illusion of looking through the screen. In fact, it's more effective than 3D glasses in some cases because of the head tracking.
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![video (3)](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/40b5c3d1-1af1-4af6-b889-17b079b56f3f)
+![unnamed](https://github.com/NoahBSchwartz/SnapSculpt/assets/44248582/468e0762-953f-4a9c-b573-1053b4d0c7a1)![unnamed (1)](https://github.com/NoahBSchwartz/SnapSculpt/assets/44248582/e1ad5868-d2d9-439e-9f8a-6207b6ffb3cb)![unnamed (3)](https://github.com/NoahBSchwartz/SnapSculpt/assets/44248582/dd53f6cc-8d4a-4408-8d6c-544c2337574e)
+
+
+
 
 ## 🚀 How to Use
 
