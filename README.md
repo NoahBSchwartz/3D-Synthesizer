@@ -18,9 +18,7 @@
 ## 🎉 Result
 In person, the effect is convincing enough to give the illusion of looking through the screen. In fact, it's more effective than 3D glasses in some cases because of the head tracking.
 
-
-![7278 (online-video-cutter com)](https://github.com/NoahBSchwartz/SnapSculpt/assets/44248582/c3f24d06-e573-4904-b555-e57b3a8782dc)
-
+![ezgif com-video-to-gif](https://github.com/NoahBSchwartz/SnapSculpt/assets/44248582/3815bc02-becb-4487-a7df-b35581b79f77)
 
 
 
