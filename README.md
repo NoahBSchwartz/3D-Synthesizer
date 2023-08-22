@@ -5,9 +5,9 @@
 
 ## 🛠 Process
 
-  1. [Mediapipe](https://google.github.io/mediapipe/solutions/face_mesh.html) is used to track the user's face in real-time
-  2. These coordinates are fed into a Blender scene over a socket communication link
-  3. The camera follows these coordinates to move in sync with the viewer's movements for a convincing effect
+  1. The [removebg](https://www.remove.bg/) library highlights the foreground and the background of each of the 3 images
+  2. Then, OpenCV masks out the background so only the outline of the object remains
+  3. The dimensions of the 3 cutouts can be compared together to properly size and position the pictures 
   4. Some post-processing on top gives the parallax effect.  
 ㅤ![Screenshot 2023-08-18 at 5 09 27 PM](https://github.com/NoahBSchwartz/SnapSculpt/assets/44248582/2553897f-9526-4345-aff8-dbf7a8632536)
 
