@@ -1,7 +1,7 @@
 # SnapScuplt
 
 ## 🏺 Introduction
-  Typically, a model has to go through around an hour of processing 500 frames of data to create a .  makes rough 3D scanning free and instantaneous 
+  Typically, to 3D scan a model into CAD, users have to process a video of their object for hours. This is perfect for getting the most accurate results possible, but engineers often only care about the general shape and ratios of a part in a larger assembly. ScanSculpt gives this type of rough 3D scanning its own process by relying on data from only 3 images, processed in seconds. 
 
 ## 🛠 Process
 
