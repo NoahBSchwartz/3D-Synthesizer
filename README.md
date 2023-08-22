@@ -1,7 +1,7 @@
 # SnapScuplt
 
-## 🏆 Introduction
-  This project gives the illusion of wearing 3D glasses using only a laptop by harnessing the power of AI and a bit of post-processing. It won third place at the Colorado Technology Student Association competition!
+## 🏺 Introduction
+  Typically, a model has to go through around an hour of processing 500 frames of data to create a .  makes rough 3D scanning free and instantaneous 
 
 ## 🛠 Process
 
