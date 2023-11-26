@@ -13,8 +13,6 @@
 
 
 
-## Weaknesses 
-
 ## 🎉 Result
 The program outputs an STL file of the complete 3D object. It can be immediately imported into CAD, rendering, or slicing software. 
 
