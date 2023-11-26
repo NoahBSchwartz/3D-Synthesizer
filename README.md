@@ -22,9 +22,6 @@ The program outputs an STL file of the complete 3D object. It can be immediately
 
 
 
-## 🚀 How to Use
-
-Explain how others can use your project, including setup instructions, dependencies, and examples.
 
 
 
